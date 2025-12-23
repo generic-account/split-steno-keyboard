@@ -6,4 +6,9 @@ The keyboard is designed to be maximally ergonomic for my hand shape (col height
 
 Unfortunately I have lost some files, so this repository is incomplete.
 
+## Features:
+- Low profile Kailh Choc switches
+- RPI Pico-based
+- Split halves connected by 3.5mm headphone cable
+  
 ![Split Steno Keyboard](Keyboard(1).jpg)
