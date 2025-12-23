@@ -10,6 +10,7 @@ Unfortunately I have lost some files, so this repository is incomplete.
 - Low profile Kailh Choc switches
 - RPI Pico-based
 - Split halves connected by 3.5mm headphone cable
+- NKRO for steno support
 
 ## Image
   
